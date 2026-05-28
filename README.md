@@ -67,7 +67,7 @@ Rio de Janeiro, Brasil
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cauacosenza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-cosenza-0a35b2264/)
 
 ---
 
