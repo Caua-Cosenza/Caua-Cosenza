@@ -9,6 +9,7 @@ Minha linguagem de formação é **Java**, mas tenho explorado outras stacks na 
 ## 🎓 Educação
 
 - **Análise e Desenvolvimento de Software** — em andamento (2025 → ...)
+- **Java e Programação Orientada a Objetos Expert — Devsuperior, 160h (2026) — classes, herança, polimorfismo, interfaces, generics, coleções, exceções e lambda
 
 ---
 
